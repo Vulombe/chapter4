@@ -7,7 +7,8 @@ public class Car implements Vehicle
 {
     private int spd;
     @Override
-    public int move(int speed){
+    public int move(int speed)
+    {
         return 5 * spd;
     }
 }
