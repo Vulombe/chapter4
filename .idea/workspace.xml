@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab6bde9d-b55b-474a-be73-e863f688a4ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/correction/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/violation/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zm/hashcode/design/test/softwaredesignprinciples/dip/DipTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Violate/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/correction/Ideliver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/correction/Imove.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zm/hashcode/design/test/softwaredesignprinciples/isp/IspTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Violate/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/correction/Truck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/violation/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/zm/hashcode/design/test/softwaredesignprinciples/dip/ViolationDepTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/isp/ReplaceMe.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zm/hashcode/design/softwaredesignprinciples/isp/ReplaceMe.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zm/hashcode/design/objectorientedprinciples/inheritance/Lecture.class" afterPath="$PROJECT_DIR$/target/classes/zm/hashcode/design/objectorientedprinciples/inheritance/Lecture.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/zm/hashcode/design/objectorientedprinciples/inheritance/Student.class" afterPath="$PROJECT_DIR$/target/classes/zm/hashcode/design/objectorientedprinciples/inheritance/Student.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/zm/hashcode/design/TestPolymorphism.class" afterPath="$PROJECT_DIR$/target/test-classes/zm/hashcode/design/TestPolymorphism.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Person.java" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Student.java" afterPath="$PROJECT_DIR$/src/main/java/zm/hashcode/design/softwaredesignprinciples/dip/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="design.iws" />
@@ -1126,12 +1107,12 @@
       <workItem from="1424944361067" duration="3327000" />
       <workItem from="1424948311263" duration="662000" />
       <workItem from="1425025195053" duration="4139000" />
-      <workItem from="1425031399078" duration="4700000" />
+      <workItem from="1425031399078" duration="5239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12828000" />
+    <option name="totallyTimeSpent" value="13367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="744" extended-state="6" />
