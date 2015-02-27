@@ -6,7 +6,7 @@ package zm.hashcode.design.objectorientedprinciples.inheritance;
 public class StudentViolation extends Lecture
 {
     private String sNumber;
-    public StudentViolation(String name, String surname, String addres, int age, int empNum, String subject) {
+    public StudentViolation(String name, String surname, String addres, int age, int empNum, String subject, String sNumber) {
         super(name, surname, addres, age, empNum, subject);
         this.sNumber = sNumber;
     }
