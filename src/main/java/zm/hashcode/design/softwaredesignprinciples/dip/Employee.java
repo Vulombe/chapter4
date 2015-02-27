@@ -6,7 +6,7 @@ package zm.hashcode.design.softwaredesignprinciples.dip;
 public class Employee extends Person
 {
     @Override
-    String getname() {
+    public String getname() {
         return "musa";
     }
 }

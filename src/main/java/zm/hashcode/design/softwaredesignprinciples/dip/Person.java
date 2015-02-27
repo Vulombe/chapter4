@@ -5,5 +5,5 @@ package zm.hashcode.design.softwaredesignprinciples.dip;
  */
 public abstract class Person
 {
-    abstract String getname();
+    public abstract String getname();
 }

@@ -1,7 +1,0 @@
-package zm.hashcode.design.softwaredesignprinciples.isp;
-
-/**
- * Created by hashcode on 2015/02/25.
- */
-public class ReplaceMe {
-}
